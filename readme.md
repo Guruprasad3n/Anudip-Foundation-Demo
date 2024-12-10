@@ -15,7 +15,6 @@ What are selectors in CSS ?
 
 # I am Guru Prasad Behera
 
-- git init
 - git remote add origin "your repository link"
 - git config --global user.email "you@example.com"
 - git config --global user.name "Your Name"
