@@ -1,3 +1,18 @@
+What are selectors in CSS ?
+- Selectros are used to get the elements and to add styles to particular element.
+    - Element
+    - Class
+    - Id
+    - Universal
+    - Grouping 
+
+
+
+
+
+
+
+
 # I am Guru Prasad Behera
 
 - git init
